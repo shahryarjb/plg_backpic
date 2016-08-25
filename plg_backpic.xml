@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.2" type="plugin" group="content" method="upgrade">
+<extension version="3.6" type="plugin" group="content" method="upgrade">
 	<name>plg_backpic</name>
-	<author>Joomla! Project</author>
-	<creationDate>January 2014</creationDate>
-	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<authorEmail>admin@joomla.org</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
-	<version>0.0.1</version>
+	<author>Trangell co</author>
+	<creationDate>2016</creationDate>
+	<copyright>(C) 2016 trangell .Co. All rights reserved.</copyright>
+	<license>GPL License</license>
+	<authorEmail>info@trangell.com</authorEmail>
+	<authorUrl>https://trangell.com</authorUrl>
+	<version>0.0.2</version>
 	<description>PLG_CONTENT_CONTACT_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="plg_backpic">plg_backpic.php</filename>
@@ -18,15 +18,4 @@
         <server type="extension" priority="1" name="plg_backpic">https://trangell.com/ext/updates/plugin/plg_backpic.xml</server>
     </updateservers>
     
-	<languages folder="language">
-		<language tag="en-GB">en-GB.plg_content_backpic.ini</language>
-		<language tag="en-GB">en-GB.plg_content_backpic.sys.ini</language>
-		<language tag="fa-IR">fa-IR.plg_content_backpic.ini</language>
-		<language tag="fa-IR">fa-IR.plg_content_backpic.sys.ini</language>
-		
-	</languages>
-	<config>
-		<fields name="params">
-		</fields>
-	</config>
 </extension>
