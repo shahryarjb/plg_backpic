@@ -8,7 +8,7 @@
 	<authorEmail>info@trangell.com</authorEmail>
 	<authorUrl>https://trangell.com</authorUrl>
 	<version>0.0.2</version>
-	<description>PLG_CONTENT_CONTACT_XML_DESCRIPTION</description>
+	<description>joomla - backpic plugin</description>
 	<files>
 		<filename plugin="plg_backpic">plg_backpic.php</filename>
 		<filename plugin="plg_backpic">index.html</filename>
